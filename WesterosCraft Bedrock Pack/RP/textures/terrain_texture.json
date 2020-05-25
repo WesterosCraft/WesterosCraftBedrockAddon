@@ -2786,6 +2786,42 @@
       },
       "basket_dates" : {
          "textures" : "textures/blocks/basket_dates"
+      },
+      "basket_fish" : {
+         "textures" : "textures/blocks/basket_fish"
+      },
+      "basket_grain" : {
+         "textures" : "textures/blocks/basket_grain"
+      },
+      "basket_grape_purple" : {
+         "textures" : "textures/blocks/basket_grape_purple"
+      },
+      "basket_grape_white" : {
+         "textures" : "textures/blocks/basket_grape_white"
+      },
+      "basket_hop" : {
+         "textures" : "textures/blocks/basket_hop"
+      },
+      "basket_lavender" : {
+         "textures" : "textures/blocks/basket_lavender"
+      },
+      "basket_lemon" : {
+         "textures" : "textures/blocks/basket_lemons"
+      },
+      "basket_lime" : {
+         "textures" : "textures/blocks/basket_limes"
+      },
+      "basket_olive" : {
+         "textures" : "textures/blocks/basket_olives"
+      },
+      "basket_pomegranate" : {
+         "textures" : "textures/blocks/basket_pomegranates"
+      },
+      "basket_sourleaf" : {
+         "textures" : "textures/blocks/basket_sourleaf"
+      },
+      "basket_turnip" : {
+         "textures" : "textures/blocks/basket_turnip"
       }
    },
    "texture_name" : "atlas.terrain"

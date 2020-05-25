@@ -2664,5 +2664,101 @@
          "side" : "basket_side",
          "up" : "basket_dates"
       }
+   },
+   "westerosdeco:fish_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_fish"
+      }
+   },
+   "westerosdeco:grain_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_grain"
+      }
+   },
+   "westerosdeco:purple_grape_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_grape_purple"
+      }
+   },
+   "westerosdeco:white_grape_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_grape_white"
+      }
+   },
+   "westerosdeco:hop_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_hop"
+      }
+   },
+   "westerosdeco:lavender_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_lavender"
+      }
+   },
+   "westerosdeco:lemon_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_lemon"
+      }
+   },
+   "westerosdeco:lime_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_lime"
+      }
+   },
+   "westerosdeco:olive_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_olive"
+      }
+   },
+   "westerosdeco:pomegranate_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_pomegranate"
+      }
+   },
+   "westerosdeco:sourleaf_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_sourleaf"
+      }
+   },
+   "westerosdeco:turnip_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_turnip"
+      }
    }
 }
