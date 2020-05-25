@@ -2761,10 +2761,10 @@
          "textures" : "textures/blocks/oxidized_iron_block"
       },
       "six_sided_birch" : {
-         "textures" : "textures/blocks/bark_birch"
+         "textures" : "textures/blocks/log_birch"
       },
       "six_sided_jungle" : {
-         "textures" : "textures/blocks/bark_jungle"
+         "textures" : "textures/blocks/log_jungle"
       },
       "basket_side" : {
          "textures" : "textures/blocks/basket_side"
@@ -2772,7 +2772,7 @@
       "basket_bottom" : {
          "textures" : "textures/blocks/basket_bottom"
       },
-      "apple_basket" : {
+      "basket_apple" : {
          "textures" : "textures/blocks/basket_apple"
       }
    },

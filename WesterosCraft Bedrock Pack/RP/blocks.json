@@ -2619,11 +2619,11 @@
    },
    "westerosblock:six_sided_birch" : {
       "sound" : "wood",
-      "textures" : "bark_birch"
+      "textures" : "six_sided_birch"
    },
    "westerosblock:six_sided_jungle" : {
       "sound" : "wood",
-      "textures" : "bark_jungle"
+      "textures" : "six_sided_jungle"
    },
    "westerosblock:apple_basket" : {
       "sound" : "wood",

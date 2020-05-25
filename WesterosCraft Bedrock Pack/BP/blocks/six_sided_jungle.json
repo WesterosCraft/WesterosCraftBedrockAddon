@@ -14,7 +14,7 @@
         "flame_odds": 50,
         "burn_odds": 10
     },
-      "minecraft:block_light_emission": 1.0
+      "minecraft:block_light_emission": 0.2
     }
   }
 }
