@@ -2,14 +2,14 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosblock:arbor_brick",
+      "identifier": "westerosblock:marble_baelors",
       "register_to_creative_menu": true,
       "is_experimental": false
     },
     "components": {
       "minecraft:destroy_time": 4.0,
       "minecraft:friction": 0.6,
-      "minecraft:map_color": "#675538",
+      "minecraft:map_color": "#CECAC1",
       "minecraft:flammable": {
         "flame_odds": 0,
         "burn_odds": 0

@@ -2777,12 +2777,32 @@
          "up" : "stone_slab_top"
       }
    },
-   // "double_stone_slab" : {
-   //    "sound" : "stone",
-   //    "textures" : {
-   //       "down" : "stone_slab_bottom",
-   //       "side" : "stone_slab_side",
-   //       "up" : "stone_slab_top"
-   //    }
-   // },
+   "westerosdeco:arbor_brick_arrow_slit" : {
+      "sound" : "stone",
+      "textures" : "arbor_brick_arrow_slit"
+   },
+   "westerosdeco:arbor_brick_arrow_slit_ornate" : {
+      "sound" : "stone",
+      "textures" : "arbor_brick_arrow_slit_ornate"
+   },
+   "westerosdeco:arbor_brick_arrow_slit_window" : {
+      "sound" : "stone",
+      "textures" : "arbor_brick_arrow_slit_window"
+   },
+   "westerosblock:arbor_brick_ornate" : {
+      "sound" : "stone",
+      "textures" : "arbor_brick_ornate"
+   },
+   "westerosblock:arbor_cobble" : {
+      "sound" : "stone",
+      "textures" : "arbor_cobble"
+   },
+   "westerosblock:arbor_light_stone" : {
+      "sound" : "stone",
+      "textures" : "arbor_light_stone"
+   },
+   "westerosblock:marble_baelors" : {
+      "sound" : "stone",
+      "textures" : "marble_baelors"
+   }
 }

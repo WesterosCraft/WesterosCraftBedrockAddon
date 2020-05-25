@@ -8753,9 +8753,13 @@ dynamicPackage.download.android.NotificationChannelDescription=Show update statu
 
 ## WesterosBlocks
 tile.westerosblock:arbor_brick.name=Arbor Brick
+tile.westerosblock:arbor_brick_ornate.name=Arbor Brick Ornate
+tile.westerosblock:arbor_cobble.name=Arbor Cobble
+tile.westerosblock:arbor_light_stone.name=Arbor Light Stone
 tile.westerosblock:oxidized_iron_block.name=Oxidized Iron Block
 tile.westerosblock:six_sided_birch.name=Six Sided Birch
 tile.westerosblock:six_sided_jungle.name=Six Sided Jungle
+tile.westerosblock:marble_baelors.name=Marble Baelors
 
 ## WesterosDecorative
 tile.westerosdeco:apple_basket.name=Apple Basket
@@ -8776,3 +8780,7 @@ tile.westerosdeco:orange_basket.name=Orange Basket
 tile.westerosdeco:pomegranate_basket.name=Pomegranate Basket
 tile.westerosdeco:sourleaf_basket.name=Sourleaf Basket
 tile.westerosdeco:turnip_basket.name=Turnip Basket
+tile.westerosdeco:arbor_brick_arrow_slit.name=Arbor Brick Arrow Slit
+tile.westerosdeco:arbor_brick_arrow_slit_ornate.name=Arbor Brick Arrow Slit Ornate
+tile.westerosdeco:arbor_brick_arrow_slit_window.name=Arbor Brick Arrow Slit Window
+
