@@ -2309,7 +2309,8 @@
             "textures/blocks/brick",
             "textures/blocks/stonebrick",
             "textures/blocks/quartz_block_top",
-            "textures/blocks/nether_brick"
+            "textures/blocks/nether_brick",
+            "textures/blocks/basket_bottom"
          ]
       },
       "stone_slab_bottom_2" : {
@@ -2354,7 +2355,8 @@
             "textures/blocks/brick",
             "textures/blocks/stonebrick",
             "textures/blocks/quartz_block_side",
-            "textures/blocks/nether_brick"
+            "textures/blocks/nether_brick",
+            "textures/blocks/basket_slab_side"
          ]
       },
       "stone_slab_side_2" : {
@@ -2807,6 +2809,9 @@
       },
       "basket_lemon" : {
          "textures" : "textures/blocks/basket_lemons"
+      },
+      "basket_orange" : {
+         "textures" : "textures/blocks/basket_oranges"
       },
       "basket_lime" : {
          "textures" : "textures/blocks/basket_limes"

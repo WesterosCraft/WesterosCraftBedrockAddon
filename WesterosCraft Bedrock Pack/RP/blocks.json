@@ -2729,6 +2729,14 @@
          "up" : "basket_lime"
       }
    },
+   "westerosdeco:orange_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_orange"
+      }
+   },
    "westerosdeco:olive_basket" : {
       "sound" : "wood",
       "textures" : {
@@ -2760,5 +2768,21 @@
          "side" : "basket_side",
          "up" : "basket_turnip"
       }
-   }
+   },
+   "westerosdeco:apple_basket_slab" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "stone_slab_bottom",
+         "side" : "stone_slab_side",
+         "up" : "stone_slab_top"
+      }
+   },
+   // "double_stone_slab" : {
+   //    "sound" : "stone",
+   //    "textures" : {
+   //       "down" : "stone_slab_bottom",
+   //       "side" : "stone_slab_side",
+   //       "up" : "stone_slab_top"
+   //    }
+   // },
 }
