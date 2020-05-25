@@ -2804,5 +2804,49 @@
    "westerosblock:marble_baelors" : {
       "sound" : "stone",
       "textures" : "marble_baelors"
+   },
+   "westerosblock:basalt_brick" : {
+      "sound" : "stone",
+      "textures" : "basalt_brick"
+   },
+   "westerosdeco:basalt_brick_arrow_slit" : {
+      "sound" : "stone",
+      "textures" : "basalt_brick_arrow_slit"
+   },
+   "westerosblock:basalt_cobble" : {
+      "sound" : "stone",
+      "textures" : "basalt_cobble"
+   },
+   "westerosblock:northern_cobble" : {
+      "sound" : "stone",
+      "textures" : "northern_cobble"
+   },
+   "westerosblock:northern_icy_cobble" : {
+      "sound" : "stone",
+      "textures" : "northern_icy_cobble"
+   },
+   "westerosdeco:bookshelf_abandoned" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "spruce_planks",
+         "side" : "bookshelf_abandoned",
+         "up" : "spruce_planks"
+      }
+   },
+   "westerosdeco:bookshelf_library" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "spruce_planks",
+         "side" : "bookshelf_library",
+         "up" : "spruce_planks"
+      }
+   },
+   "westerosdeco:bookshelf_maester" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "spruce_planks",
+         "side" : "bookshelf_maester",
+         "up" : "spruce_planks"
+      }
    }
 }

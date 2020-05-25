@@ -8760,6 +8760,12 @@ tile.westerosblock:oxidized_iron_block.name=Oxidized Iron Block
 tile.westerosblock:six_sided_birch.name=Six Sided Birch
 tile.westerosblock:six_sided_jungle.name=Six Sided Jungle
 tile.westerosblock:marble_baelors.name=Marble Baelors
+tile.westerosblock:basalt_brick.name=Basalt Brick
+tile.westerosblock:basalt_cobble.name=Basalt Cobble
+tile.westerosblock:northern_cobble.name=Northern Cobble
+tile.westerosblock:northern_icy_cobble.name=Northern Icy Cobble
+
+
 
 ## WesterosDecorative
 tile.westerosdeco:apple_basket.name=Apple Basket
@@ -8783,4 +8789,11 @@ tile.westerosdeco:turnip_basket.name=Turnip Basket
 tile.westerosdeco:arbor_brick_arrow_slit.name=Arbor Brick Arrow Slit
 tile.westerosdeco:arbor_brick_arrow_slit_ornate.name=Arbor Brick Arrow Slit Ornate
 tile.westerosdeco:arbor_brick_arrow_slit_window.name=Arbor Brick Arrow Slit Window
+tile.westerosdeco:basalt_brick_arrow_slit.name=Basalt Brick Arrow Slit
+tile.westerosdeco:bookshelf_abandoned.name=Abandoned Bookshelf
+tile.westerosdeco:bookshelf_library.name=Library Bookshelf
+tile.westerosdeco:bookshelf_maester.name=Maester Bookshelf
+
+
+
 

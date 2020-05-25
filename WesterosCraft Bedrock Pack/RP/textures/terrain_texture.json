@@ -2848,6 +2848,30 @@
       },
       "marble_baelors" : {
          "textures" : "textures/blocks/marble_baelors"
+      },
+      "basalt_brick" : {
+         "textures" : "textures/blocks/basalt_brick"
+      },
+      "basalt_brick_arrow_slit" : {
+         "textures" : "textures/blocks/basalt_brick_arrow_slit"
+      },
+      "basalt_cobble" : {
+         "textures" : "textures/blocks/basalt_cobble"
+      },
+      "northern_cobble" : {
+         "textures" : "textures/blocks/northern_cobble"
+      },
+      "northern_icy_cobble" : {
+         "textures" : "textures/blocks/northern_icy_cobble"
+      },
+      "bookshelf_abandoned" : {
+         "textures" : "textures/blocks/bookshelf_abandoned"
+      },
+      "bookshelf_library" : {
+         "textures" : "textures/blocks/bookshelf_library"
+      },
+      "bookshelf_maester" : {
+         "textures" : "textures/blocks/bookshelf_maester"
       }
    },
    "texture_name" : "atlas.terrain"
