@@ -8752,8 +8752,14 @@ dynamicPackage.download.android.notificationChannelName=Update status
 dynamicPackage.download.android.NotificationChannelDescription=Show update status and progress
 
 ## WesterosBlocks
-tile.westerosblock:apple_basket.name=Apple Basket
 tile.westerosblock:arbor_brick.name=Arbor Brick
 tile.westerosblock:oxidized_iron_block.name=Oxidized Iron Block
 tile.westerosblock:six_sided_birch.name=Six Sided Birch
 tile.westerosblock:six_sided_jungle.name=Six Sided Jungle
+
+## WesterosDecorative
+tile.westerosdeco:apple_basket.name=Apple Basket
+tile.westerosdeco:apricot_basket.name=Apricot Basket
+tile.westerosdeco:berry_basket.name=Berry Basket
+tile.westerosdeco:carrot_basket.name=Carrot Basket
+tile.westerosdeco:dates_basket.name=Dates Basket

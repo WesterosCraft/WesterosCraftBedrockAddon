@@ -2625,12 +2625,44 @@
       "sound" : "wood",
       "textures" : "six_sided_jungle"
    },
-   "westerosblock:apple_basket" : {
+   "westerosdeco:apple_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
          "side" : "basket_side",
          "up" : "basket_apple"
+      }
+   },
+   "westerosdeco:apricot_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_apricot"
+      }
+   },
+   "westerosdeco:berry_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_berry"
+      }
+   },
+   "westerosdeco:carrot_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_carrot"
+      }
+   },
+   "westerosdeco:dates_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_dates"
       }
    }
 }

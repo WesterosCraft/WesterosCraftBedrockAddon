@@ -2774,6 +2774,18 @@
       },
       "basket_apple" : {
          "textures" : "textures/blocks/basket_apple"
+      },
+      "basket_apricot" : {
+         "textures" : "textures/blocks/basket_apricot"
+      },
+      "basket_berry" : {
+         "textures" : "textures/blocks/basket_berry"
+      },
+      "basket_carrot" : {
+         "textures" : "textures/blocks/basket_carrot"
+      },
+      "basket_dates" : {
+         "textures" : "textures/blocks/basket_dates"
       }
    },
    "texture_name" : "atlas.terrain"
