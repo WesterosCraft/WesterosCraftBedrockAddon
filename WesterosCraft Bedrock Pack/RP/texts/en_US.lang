@@ -8764,8 +8764,8 @@ tile.westerosblock:basalt_brick.name=Basalt Brick
 tile.westerosblock:basalt_cobble.name=Basalt Cobble
 tile.westerosblock:northern_cobble.name=Northern Cobble
 tile.westerosblock:northern_icy_cobble.name=Northern Icy Cobble
-
-
+tile.westerosblock:mud.name=Mud
+tile.westerosblock:dark_northern_wood.name=Dark Northern Wood
 
 ## WesterosDecorative
 tile.westerosdeco:apple_basket.name=Apple Basket
@@ -8793,6 +8793,7 @@ tile.westerosdeco:basalt_brick_arrow_slit.name=Basalt Brick Arrow Slit
 tile.westerosdeco:bookshelf_abandoned.name=Abandoned Bookshelf
 tile.westerosdeco:bookshelf_library.name=Library Bookshelf
 tile.westerosdeco:bookshelf_maester.name=Maester Bookshelf
+tile.westerosdeco:firewood.name=Firewood
 
 
 

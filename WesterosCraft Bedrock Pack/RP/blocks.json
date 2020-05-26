@@ -2848,5 +2848,21 @@
          "side" : "bookshelf_maester",
          "up" : "spruce_planks"
       }
+   },
+   "westerosblock:mud" : {
+      "sound" : "stone",
+      "textures" : "mud"
+   },
+   "westerosdeco:firewood" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "firewood_top",
+         "side" : "firewood_side",
+         "up" : "firewood_top"
+      }
+   },
+   "westerosblock:dark_northern_wood" : {
+      "sound" : "wood",
+      "textures" : "dark_northern_wood"
    }
 }
