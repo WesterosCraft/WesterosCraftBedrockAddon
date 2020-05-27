@@ -8796,6 +8796,12 @@ tile.wb:bench_drawers.name=Bench Drawers
 tile.wb:wood_black.name=Black Wood
 tile.wb:bench_butcher_knives.name=Bench Butcher Knives
 tile.wb:closed_barrel.name=Closed Barrel
+tile.wb:slate_black.name=Black Slate
+tile.wb:slate_blue.name=Blue Slate
+tile.wb:slate_green.name=Green Slate
+tile.wb:slate_brown.name=Brown Slate
+tile.wb:slate_lannisport.name=Lannisport Slate
+tile.wb:slate_red.name=Red Slate
 
 
 

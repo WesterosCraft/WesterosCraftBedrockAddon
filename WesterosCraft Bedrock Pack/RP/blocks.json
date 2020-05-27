@@ -2850,7 +2850,7 @@
       }
    },
    "wb:mud" : {
-      "sound" : "stone",
+      "sound" : "soul_sand",
       "textures" : "mud"
    },
    "wb:firewood" : {
@@ -2888,5 +2888,29 @@
          "side" : "barrel_side",
          "up" : "barrel_top_closed"
       }
+   },
+   "wb:slate_black" : {
+      "sound" : "stone",
+      "textures" : "slate_black"
+   },
+   "wb:slate_blue" : {
+      "sound" : "stone",
+      "textures" : "slate_blue"
+   },
+   "wb:slate_green" : {
+      "sound" : "stone",
+      "textures" : "slate_green"
+   },
+   "wb:slate_lannisport" : {
+      "sound" : "stone",
+      "textures" : "slate_lannisport"
+   },
+   "wb:slate_red" : {
+      "sound" : "stone",
+      "textures" : "slate_red"
+   },
+   "wb:slate_brown" : {
+      "sound" : "stone",
+      "textures" : "slate_brown"
    }
 }

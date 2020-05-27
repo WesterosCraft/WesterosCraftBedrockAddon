@@ -2897,6 +2897,24 @@
       },
       "barrel_top_closed" : {
          "textures" : "textures/blocks/barrel_top_closed"
+      },
+      "slate_black" : {
+         "textures" : "textures/blocks/slate_black"
+      },
+      "slate_blue" : {
+         "textures" : "textures/blocks/slate_blue"
+      },
+      "slate_green" : {
+         "textures" : "textures/blocks/slate_green"
+      },
+      "slate_brown" : {
+         "textures" : "textures/blocks/slate_brown"
+      },
+      "slate_lannisport" : {
+         "textures" : "textures/blocks/slate_lannisport"
+      },
+      "slate_red" : {
+         "textures" : "textures/blocks/slate_red"
       }
    }
 }
