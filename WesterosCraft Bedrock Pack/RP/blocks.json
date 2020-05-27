@@ -2872,5 +2872,21 @@
          "side" : "bench_drawers",
          "up" : "crafting_table_top"
       }
+   },
+   "wb:wood_black" : {
+      "sound" : "wood",
+      "textures" : "wood_black"
+   },
+   "wb:bench_butcher_knives" : {
+      "sound" : "wood",
+      "textures" : "bench_butcher_knives"
+   },
+   "wb:closed_barrel" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "barrel_side",
+         "side" : "barrel_side",
+         "up" : "barrel_top_closed"
+      }
    }
 }

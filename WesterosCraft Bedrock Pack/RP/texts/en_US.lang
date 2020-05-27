@@ -8792,7 +8792,10 @@ tile.wb:bookshelf_abandoned.name=Abandoned Bookshelf
 tile.wb:bookshelf_library.name=Library Bookshelf
 tile.wb:bookshelf_maester.name=Maester Bookshelf
 tile.wb:firewood.name=Firewood
-
+tile.wb:bench_drawers.name=Bench Drawers
+tile.wb:wood_black.name=Black Wood
+tile.wb:bench_butcher_knives.name=Bench Butcher Knives
+tile.wb:closed_barrel.name=Closed Barrel
 
 
 

@@ -2888,6 +2888,15 @@
       },
       "bench_drawers" : {
          "textures" : "textures/blocks/bench_drawers"
+      },
+      "bench_butcher_knives" : {
+         "textures" : "textures/blocks/bench_butcher_knives"
+      },
+      "wood_black" : {
+         "textures" : "textures/blocks/wood_black"
+      },
+      "barrel_top_closed" : {
+         "textures" : "textures/blocks/barrel_top_closed"
       }
    }
 }
