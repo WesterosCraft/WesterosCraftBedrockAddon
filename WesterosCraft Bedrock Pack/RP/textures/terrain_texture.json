@@ -2915,6 +2915,21 @@
       },
       "slate_red" : {
          "textures" : "textures/blocks/slate_red"
+      },
+      "six_sided_spruce" : {
+         "textures" : "textures/blocks/planks_spruce"
+      },
+      "cabinet_broken" : {
+         "textures" : "textures/blocks/cabinet_broken"
+      },
+      "crate_side_crossbar_right" : {
+         "textures" : "textures/blocks/crate_side_crossbar_right"
+      },
+      "crate_side_crossbar_left" : {
+         "textures" : "textures/blocks/crate_side_crossbar_left"
+      },
+      "crate_side_crossbar_crossed" : {
+         "textures" : "textures/blocks/crate_side_crossbar_crossed"
       }
    }
 }

@@ -8802,6 +8802,12 @@ tile.wb:slate_green.name=Green Slate
 tile.wb:slate_brown.name=Brown Slate
 tile.wb:slate_lannisport.name=Lannisport Slate
 tile.wb:slate_red.name=Red Slate
+tile.wb:six_sided_spruce.name=Six Sided Spruce
+tile.wb:cabinet_broken.name=Broken Cabinet
+tile.wb:crate_one.name=Crate One
+tile.wb:crate_two.name=Crate Two
+tile.wb:crate_three.name=Crate Three
+
 
 
 

@@ -2625,6 +2625,10 @@
       "sound" : "wood",
       "textures" : "six_sided_jungle"
    },
+   "wb:six_sided_spruce" : {
+      "sound" : "wood",
+      "textures" : "six_sided_spruce"
+   },
    "wb:apple_basket" : {
       "sound" : "wood",
       "textures" : {
@@ -2912,5 +2916,33 @@
    "wb:slate_brown" : {
       "sound" : "stone",
       "textures" : "slate_brown"
+   },
+   "wb:cabinet_broken" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "planks_spruce",
+         "side" : "cabinet_broken",
+         "up" : "planks_spruce"
+      }
+   },
+   "wb:crate_one" : {
+      "sound" : "wood",
+      "textures" : "crate_side_crossbar_right"
+   },
+   "wb:crate_two" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_left",
+         "up" : "crate_side_crossbar_left"
+      }
+   },
+   "wb:crate_three" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_crossed",
+         "up" : "crate_side_crossbar_crossed"
+      }
    }
 }
