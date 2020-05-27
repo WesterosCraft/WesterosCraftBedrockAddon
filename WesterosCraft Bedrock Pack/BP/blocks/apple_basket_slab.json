@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:apple_basket_slab",
+      "identifier": "wb:apple_basket_slab",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

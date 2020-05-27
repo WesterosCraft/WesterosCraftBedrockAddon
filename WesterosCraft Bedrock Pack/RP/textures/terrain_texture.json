@@ -2885,6 +2885,9 @@
       },
       "dark_northern_wood" : {
          "textures" : "textures/blocks/planks_northern"
+      },
+      "bench_drawers" : {
+         "textures" : "textures/blocks/bench_drawers"
       }
    }
 }

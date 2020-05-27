@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:arbor_brick_arrow_slit_window",
+      "identifier": "wb:arbor_brick_arrow_slit_window",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

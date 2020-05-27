@@ -2609,23 +2609,23 @@
       "sound" : "stone",
       "textures" : "yellow_glazed_terracotta"
    },
-   "westerosblock:arbor_brick" : {
+   "wb:arbor_brick" : {
       "sound" : "stone",
       "textures" : "arbor_brick"
    },
-   "westerosblock:oxidized_iron_block" : {
+   "wb:oxidized_iron_block" : {
       "sound" : "metal",
       "textures" : "oxidized_iron_block"
    },
-   "westerosblock:six_sided_birch" : {
+   "wb:six_sided_birch" : {
       "sound" : "wood",
       "textures" : "six_sided_birch"
    },
-   "westerosblock:six_sided_jungle" : {
+   "wb:six_sided_jungle" : {
       "sound" : "wood",
       "textures" : "six_sided_jungle"
    },
-   "westerosdeco:apple_basket" : {
+   "wb:apple_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2633,7 +2633,7 @@
          "up" : "basket_apple"
       }
    },
-   "westerosdeco:apricot_basket" : {
+   "wb:apricot_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2641,7 +2641,7 @@
          "up" : "basket_apricot"
       }
    },
-   "westerosdeco:berry_basket" : {
+   "wb:berry_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2649,7 +2649,7 @@
          "up" : "basket_berry"
       }
    },
-   "westerosdeco:carrot_basket" : {
+   "wb:carrot_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2657,7 +2657,7 @@
          "up" : "basket_carrot"
       }
    },
-   "westerosdeco:dates_basket" : {
+   "wb:dates_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2665,7 +2665,7 @@
          "up" : "basket_dates"
       }
    },
-   "westerosdeco:fish_basket" : {
+   "wb:fish_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2673,7 +2673,7 @@
          "up" : "basket_fish"
       }
    },
-   "westerosdeco:grain_basket" : {
+   "wb:grain_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2681,7 +2681,7 @@
          "up" : "basket_grain"
       }
    },
-   "westerosdeco:purple_grape_basket" : {
+   "wb:purple_grape_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2689,7 +2689,7 @@
          "up" : "basket_grape_purple"
       }
    },
-   "westerosdeco:white_grape_basket" : {
+   "wb:white_grape_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2697,7 +2697,7 @@
          "up" : "basket_grape_white"
       }
    },
-   "westerosdeco:hop_basket" : {
+   "wb:hop_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2705,7 +2705,7 @@
          "up" : "basket_hop"
       }
    },
-   "westerosdeco:lavender_basket" : {
+   "wb:lavender_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2713,7 +2713,7 @@
          "up" : "basket_lavender"
       }
    },
-   "westerosdeco:lemon_basket" : {
+   "wb:lemon_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2721,7 +2721,7 @@
          "up" : "basket_lemon"
       }
    },
-   "westerosdeco:lime_basket" : {
+   "wb:lime_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2729,7 +2729,7 @@
          "up" : "basket_lime"
       }
    },
-   "westerosdeco:orange_basket" : {
+   "wb:orange_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2737,7 +2737,7 @@
          "up" : "basket_orange"
       }
    },
-   "westerosdeco:olive_basket" : {
+   "wb:olive_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2745,7 +2745,7 @@
          "up" : "basket_olive"
       }
    },
-   "westerosdeco:pomegranate_basket" : {
+   "wb:pomegranate_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2753,7 +2753,7 @@
          "up" : "basket_pomegranate"
       }
    },
-   "westerosdeco:sourleaf_basket" : {
+   "wb:sourleaf_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2761,7 +2761,7 @@
          "up" : "basket_sourleaf"
       }
    },
-   "westerosdeco:turnip_basket" : {
+   "wb:turnip_basket" : {
       "sound" : "wood",
       "textures" : {
          "down" : "basket_bottom",
@@ -2769,7 +2769,7 @@
          "up" : "basket_turnip"
       }
    },
-   "westerosdeco:apple_basket_slab" : {
+   "wb:apple_basket_slab" : {
       "sound" : "wood",
       "textures" : {
          "down" : "stone_slab_bottom",
@@ -2777,55 +2777,55 @@
          "up" : "stone_slab_top"
       }
    },
-   "westerosdeco:arbor_brick_arrow_slit" : {
+   "wb:arbor_brick_arrow_slit" : {
       "sound" : "stone",
       "textures" : "arbor_brick_arrow_slit"
    },
-   "westerosdeco:arbor_brick_arrow_slit_ornate" : {
+   "wb:arbor_brick_arrow_slit_ornate" : {
       "sound" : "stone",
       "textures" : "arbor_brick_arrow_slit_ornate"
    },
-   "westerosdeco:arbor_brick_arrow_slit_window" : {
+   "wb:arbor_brick_arrow_slit_window" : {
       "sound" : "stone",
       "textures" : "arbor_brick_arrow_slit_window"
    },
-   "westerosblock:arbor_brick_ornate" : {
+   "wb:arbor_brick_ornate" : {
       "sound" : "stone",
       "textures" : "arbor_brick_ornate"
    },
-   "westerosblock:arbor_cobble" : {
+   "wb:arbor_cobble" : {
       "sound" : "stone",
       "textures" : "arbor_cobble"
    },
-   "westerosblock:arbor_light_stone" : {
+   "wb:arbor_light_stone" : {
       "sound" : "stone",
       "textures" : "arbor_light_stone"
    },
-   "westerosblock:marble_baelors" : {
+   "wb:marble_baelors" : {
       "sound" : "stone",
       "textures" : "marble_baelors"
    },
-   "westerosblock:basalt_brick" : {
+   "wb:basalt_brick" : {
       "sound" : "stone",
       "textures" : "basalt_brick"
    },
-   "westerosdeco:basalt_brick_arrow_slit" : {
+   "wb:basalt_brick_arrow_slit" : {
       "sound" : "stone",
       "textures" : "basalt_brick_arrow_slit"
    },
-   "westerosblock:basalt_cobble" : {
+   "wb:basalt_cobble" : {
       "sound" : "stone",
       "textures" : "basalt_cobble"
    },
-   "westerosblock:northern_cobble" : {
+   "wb:northern_cobble" : {
       "sound" : "stone",
       "textures" : "northern_cobble"
    },
-   "westerosblock:northern_icy_cobble" : {
+   "wb:northern_icy_cobble" : {
       "sound" : "stone",
       "textures" : "northern_icy_cobble"
    },
-   "westerosdeco:bookshelf_abandoned" : {
+   "wb:bookshelf_abandoned" : {
       "sound" : "wood",
       "textures" : {
          "down" : "spruce_planks",
@@ -2833,7 +2833,7 @@
          "up" : "spruce_planks"
       }
    },
-   "westerosdeco:bookshelf_library" : {
+   "wb:bookshelf_library" : {
       "sound" : "wood",
       "textures" : {
          "down" : "spruce_planks",
@@ -2841,7 +2841,7 @@
          "up" : "spruce_planks"
       }
    },
-   "westerosdeco:bookshelf_maester" : {
+   "wb:bookshelf_maester" : {
       "sound" : "wood",
       "textures" : {
          "down" : "spruce_planks",
@@ -2849,11 +2849,11 @@
          "up" : "spruce_planks"
       }
    },
-   "westerosblock:mud" : {
+   "wb:mud" : {
       "sound" : "stone",
       "textures" : "mud"
    },
-   "westerosdeco:firewood" : {
+   "wb:firewood" : {
       "sound" : "wood",
       "textures" : {
          "down" : "firewood_top",
@@ -2861,8 +2861,16 @@
          "up" : "firewood_top"
       }
    },
-   "westerosblock:dark_northern_wood" : {
+   "wb:dark_northern_wood" : {
       "sound" : "wood",
       "textures" : "dark_northern_wood"
+   },
+   "wb:bench_drawers" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "spruce_planks",
+         "side" : "bench_drawers",
+         "up" : "crafting_table_top"
+      }
    }
 }

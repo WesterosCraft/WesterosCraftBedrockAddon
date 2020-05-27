@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:grain_basket",
+      "identifier": "wb:grain_basket",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

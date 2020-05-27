@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:sourleaf_basket",
+      "identifier": "wb:sourleaf_basket",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

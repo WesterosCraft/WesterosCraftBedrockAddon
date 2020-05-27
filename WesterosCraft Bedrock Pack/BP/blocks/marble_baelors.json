@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosblock:marble_baelors",
+      "identifier": "wb:marble_baelors",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

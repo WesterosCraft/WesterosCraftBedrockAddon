@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:pomegranate_basket",
+      "identifier": "wb:pomegranate_basket",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

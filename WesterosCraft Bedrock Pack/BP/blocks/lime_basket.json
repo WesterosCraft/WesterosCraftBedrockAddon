@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:lime_basket",
+      "identifier": "wb:lime_basket",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "westerosdeco:bookshelf_abandoned",
+      "identifier": "wb:bookshelf_abandoned",
       "register_to_creative_menu": true,
       "is_experimental": false
     },
