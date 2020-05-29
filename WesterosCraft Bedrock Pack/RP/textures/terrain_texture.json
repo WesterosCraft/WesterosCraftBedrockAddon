@@ -2987,6 +2987,21 @@
       },
       "target_sides" : {
          "textures" : "textures/blocks/target_sides"
+      },
+      "crate_salt" : {
+         "textures" : "textures/blocks/crate_top_salt"
+      },
+      "crate_turnip" : {
+         "textures" : "textures/blocks/crate_top_turnip"
+      },
+      "brick_stone_small" : {
+         "textures" : "textures/blocks/brick_stone_small"
+      },
+      "bark_spruce_rope" : {
+         "textures" : "textures/blocks/bark_spruce_rope"
+      },
+      "bark_jungle_rope" : {
+         "textures" : "textures/blocks/bark_jungle_rope"
       }
    }
 }

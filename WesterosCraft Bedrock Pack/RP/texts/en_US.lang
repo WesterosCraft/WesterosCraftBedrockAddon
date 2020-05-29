@@ -8827,3 +8827,6 @@ tile.wb:crate_empty.name=Empty Crate
 tile.wb:daub_plain_brown.name=Plain Brown Daub
 tile.wb:reach_spruce_wood_panelling.name=Reach Spruce Wood Panelling
 tile.wb:archery_target.name=Archery Target
+tile.wb:crate_salt.name=Salt Crate
+tile.wb:crate_turnip.name=Turnip Crate
+tile.wb:brick_stone_small.name=Small Stone Brick

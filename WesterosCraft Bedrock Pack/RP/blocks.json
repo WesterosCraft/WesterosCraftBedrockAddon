@@ -3037,6 +3037,14 @@
          "up" : "crate_empty"
       }
    },
+   "wb:crate_salt" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_right",
+         "up" : "crate_salt"
+      }
+   },
    "wb:reach_spruce_wood_panelling" : {
       "sound" : "wood",
       "textures" : "wood_panelling_spruce"
@@ -3050,6 +3058,34 @@
          "south" : "target_sides",
          "up" : "target_sides",
          "west" : "target_front"
+      }
+   },
+   "wb:crate_turnip" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_right",
+         "up" : "crate_turnip"
+      }
+   },
+   "wb:brick_stone_small" : {
+      "sound" : "stone",
+      "textures" : "brick_stone_small"
+   },
+   "wb:bark_spruce_rope" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "log_spruce",
+         "side" : "bark_spruce_rope",
+         "up" : "log_spruce"
+      }
+   },
+   "wb:bark_jungle_rope" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "log_jungle",
+         "side" : "bark_jungle_rope",
+         "up" : "log_jungle"
       }
    }
 }
