@@ -8804,10 +8804,17 @@ tile.wb:slate_lannisport.name=Lannisport Slate
 tile.wb:slate_red.name=Red Slate
 tile.wb:six_sided_spruce.name=Six Sided Spruce
 tile.wb:cabinet_broken.name=Broken Cabinet
+tile.wb:cabinet_empty.name=Empty Cabinet
 tile.wb:crate_one.name=Crate One
 tile.wb:crate_two.name=Crate Two
 tile.wb:crate_three.name=Crate Three
-
-
+tile.wb:crimson_plaster.name=Crimson Plaster
+tile.wb:dark_cobblestone.name=Dark Cobblestone
+tile.wb:daub_wattle_brown_frame.name=Daub Wattle Brown Frame
+tile.wb:daub_wattle_brown_lefthatch.name=Daub Wattle Brown Lefthatch
+tile.wb:daub_wattle_brown_righthatch.name=Daub Wattle Brown Righthatch
+tile.wb:empty_barrel.name=Empty Barrel
+tile.wb:fallen_leaves.name=Fallen Leaves
+tile.wb:glowing_embers.name=Glowing Embers
 
 

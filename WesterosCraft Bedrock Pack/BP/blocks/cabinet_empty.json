@@ -2,7 +2,7 @@
   "format_version": "1.16.0",
   "minecraft:block": {
     "description": {
-      "identifier": "wb:cabinet_broken",
+      "identifier": "wb:cabinet_empty",
       "register_to_creative_menu": true,
       "is_experimental": false
     },

@@ -2930,6 +2930,33 @@
       },
       "crate_side_crossbar_crossed" : {
          "textures" : "textures/blocks/crate_side_crossbar_crossed"
+      },
+      "crimson_plaster" : {
+         "textures" : "textures/blocks/plaster_casterly_crimson"
+      },
+      "dark_cobblestone" : {
+         "textures" : "textures/blocks/stone_cobble_dark"
+      },
+      "daub_brown_open" : {
+         "textures" : "textures/blocks/daub_brown_open"
+      },
+      "daub_brown_left" : {
+         "textures" : "textures/blocks/daub_brown_left"
+      },
+      "daub_brown_right" : {
+         "textures" : "textures/blocks/daub_brown_right"
+      },
+      "barrel_top_empty" : {
+         "textures" : ["textures/blocks/barrel_top_closed", "textures/blocks/barrel_top_empty"]
+      },
+      "cabinet_empty" : {
+         "textures" : "textures/blocks/cabinet_empty"
+      },
+      "dirt_leaf_cover" : {
+         "textures" : "textures/blocks/dirt_leaf_cover"
+      },
+      "glowing_embers" : {
+         "textures"  : "textures/blocks/coals_glowing"
       }
    }
 }

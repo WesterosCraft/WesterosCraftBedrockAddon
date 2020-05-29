@@ -2944,5 +2944,49 @@
          "side" : "crate_side_crossbar_crossed",
          "up" : "crate_side_crossbar_crossed"
       }
+   },
+   "wb:crimson_plaster" : {
+      "sound" : "stone",
+      "textures" : "crimson_plaster"
+   },
+   "wb:dark_cobblestone" : {
+      "sound" : "stone",
+      "textures" : "dark_cobblestone"
+   },
+   "wb:daub_wattle_brown_frame" : {
+      "sound" : "wood",
+      "textures" : "daub_brown_open"
+   },
+   "wb:daub_wattle_brown_lefthatch" : {
+      "sound" : "wood",
+      "textures" : "daub_brown_left"
+   },
+   "wb:daub_wattle_brown_righthatch" : {
+      "sound" : "wood",
+      "textures" : "daub_brown_right"
+   },
+   "wb:empty_barrel" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "barrel_side",
+         "side" : "barrel_side",
+         "up" : "barrel_top_empty"
+      }
+   },
+   "wb:cabinet_empty" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "planks_spruce",
+         "side" : "cabinet_empty",
+         "up" : "planks_spruce"
+      }
+   },
+   "wb:fallen_leaves" : {
+      "sound" : "grass",
+      "textures" : "dirt_leaf_cover"
+   },
+   "wb:glowing_embers" : {
+      "sound" : "stone",
+      "textures" : "glowing_embers"
    }
 }
