@@ -2629,6 +2629,14 @@
       "sound" : "wood",
       "textures" : "six_sided_spruce"
    },
+   "wb:open_basket" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "basket_bottom",
+         "side" : "basket_side",
+         "up" : "basket_top"
+      }
+   },
    "wb:apple_basket" : {
       "sound" : "wood",
       "textures" : {
@@ -2965,6 +2973,10 @@
       "sound" : "wood",
       "textures" : "daub_brown_right"
    },
+   "wb:daub_plain_brown" : {
+      "sound" : "wood",
+      "textures" : "daub_plain_brown"
+   },
    "wb:empty_barrel" : {
       "sound" : "wood",
       "textures" : {
@@ -2986,7 +2998,58 @@
       "textures" : "dirt_leaf_cover"
    },
    "wb:glowing_embers" : {
-      "sound" : "stone",
+      "sound" : "gravel",
       "textures" : "glowing_embers"
+   },
+   "wb:gravel_reach" : {
+      "sound" : "gravel",
+      "textures" : "gravel_reach"
+   },
+   "wb:crate_grain" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_right",
+         "up" : "crate_top_grain"
+      }
+   },
+   "wb:crate_hops" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_left",
+         "up" : "crate_hops"
+      }
+   },
+   "wb:gold_ingots" : {
+      "sound" : "metal",
+      "textures" : "gold_ingots"
+   },
+   "wb:northern_carvings" : {
+      "sound" : "wood",
+      "textures" : "dark_northern_wood"
+   },
+   "wb:crate_empty" : {
+      "sound" : "wood",
+      "textures" : {
+         "down" : "crate_side_crossbar_right",
+         "side" : "crate_side_crossbar_right",
+         "up" : "crate_empty"
+      }
+   },
+   "wb:reach_spruce_wood_panelling" : {
+      "sound" : "wood",
+      "textures" : "wood_panelling_spruce"
+   },
+   "wb:archery_target" : {
+      "sound" : "grass",
+      "textures" : {
+         "down" : "target_sides",
+         "east" : "target_sides",
+         "north" : "target_sides",
+         "south" : "target_sides",
+         "up" : "target_sides",
+         "west" : "target_front"
+      }
    }
 }

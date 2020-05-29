@@ -2957,6 +2957,36 @@
       },
       "glowing_embers" : {
          "textures"  : "textures/blocks/coals_glowing"
+      },
+      "gravel_reach" : {
+         "textures" : "textures/blocks/gravel_reach"
+      },
+      "crate_top_grain" : {
+         "textures" : "textures/blocks/crate_top_grain"
+      },
+      "crate_hops" : {
+         "textures" : "textures/blocks/crate_hops"
+      },
+      "gold_ingots" : {
+         "textures" : "textures/blocks/brick_metal_normal_gold"
+      },
+      "basket_top" : {
+         "textures" : "textures/blocks/basket_top"
+      },
+      "crate_empty" : {
+         "textures" : "textures/blocks/crate_top_empty"
+      },
+      "daub_plain_brown" : {
+         "textures" : "textures/blocks/daub_plain_brown"
+      },
+      "wood_panelling_spruce" : {
+         "textures" : "textures/blocks/wood_panelling_spruce"
+      },
+      "target_front" : {
+         "textures" : "textures/blocks/target_front"
+      },
+      "target_sides" : {
+         "textures" : "textures/blocks/target_sides"
       }
    }
 }

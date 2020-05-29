@@ -8816,5 +8816,14 @@ tile.wb:daub_wattle_brown_righthatch.name=Daub Wattle Brown Righthatch
 tile.wb:empty_barrel.name=Empty Barrel
 tile.wb:fallen_leaves.name=Fallen Leaves
 tile.wb:glowing_embers.name=Glowing Embers
-
-
+tile.wb:gravel_reach.name=Reach Gravel
+tile.wb:crate_grain.name=Grain Crate
+tile.wb:gold_ingots.name=Gold Ingots
+tile.wb:crate_grain.name=Grain Crate
+tile.wb:crate_hops.name=Hop Crate
+tile.wb:northern_carvings.name=Northern Carvings
+tile.wb:open_basket.name=Open Basket
+tile.wb:crate_empty.name=Empty Crate
+tile.wb:daub_plain_brown.name=Plain Brown Daub
+tile.wb:reach_spruce_wood_panelling.name=Reach Spruce Wood Panelling
+tile.wb:archery_target.name=Archery Target
